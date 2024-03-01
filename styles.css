@@ -1,0 +1,14 @@
+body{
+    background-size: cover;
+    background-color: blanchedalmond;
+}
+#rectangle{
+    position:absolute;
+    background-color: aqua;
+    height:60px;
+    width: 70px;
+    text-align: center;
+    font-size: 1rem;
+    color: blue;
+    padding-top: 10px;
+}
